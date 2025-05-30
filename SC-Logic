@@ -1,0 +1,17 @@
+truth-as-geometry/
+├── README.md
+├── LICENSE
+├── paper/
+│   └── Truth_as_Geometry.pdf
+├── code/
+│   ├── sc_logic_inference.py
+│   ├── filtration_visualizer.py
+│   └── matrix_representation.ipynb
+├── images/
+│   ├── simplicial_example.png
+│   └── filtration_loop_diagram.svg
+├── examples/
+│   └── example_1_continuous_field.ipynb
+├── data/
+│   └── sample_simplicial_data.json
+└── requirements.txt
